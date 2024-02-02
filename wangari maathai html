@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file -->
+    <title>Wangari Maathai Tribute</title>
+</head>
+    <body>
+    <header>
+        <h1>Remembering Wangari Maathai</h1>
+        <p>Environmental Activist and Nobel Peace Prize Laureate</p>
+    </header>
+
+    <section id="tribute-content">
+        <img src="wangari_maathai.jpg" alt="Wangari Maathai">
+        <p>
+Wangari Maathai was a Kenyan environmental activist and Nobel Peace Prize laureate. She was the founder of the Green Belt Movement, which has planted over 51 million trees in Kenya. Maathai was a tireless advocate for environmental protection and sustainable development. She believed that planting trees could help to improve the environment, alleviate poverty, and empower women.
+Maathai was born in 1940 in Nyeri, Kenya. She was the first woman in East and Central Africa to earn a doctorate in veterinary medicine. In the early 1970s, she became concerned about the deforestation that was taking place in Kenya. She founded the Green Belt Movement in 1977 to encourage women to plant trees in their communities.
+        </p>
+		<p>
+		The Green Belt Movement has had a significant impact on Kenya. The trees that have been planted have helped to improve the environment, provide food and fuel for people, and protect watersheds. The movement has also empowered women by giving them a voice in environmental decision-making. Maathai's work has been recognized internationally. She was awarded the Nobel Peace Prize in 2004 for her "contribution to sustainable development, democracy and peace." She was the first African woman to win the Nobel Peace Prize. Maathai died in 2011 at the age of 71. She is remembered as a visionary leader who made a significant impact on the world. Her legacy continues to inspire people around the world to work for a better future.
+		</p>
+    </section>
+
+    <footer>
+        <p>Published by Marine Saruni | Date: February 2, 2024</p>
+    </footer>
+</body>
+
+
+</html>
